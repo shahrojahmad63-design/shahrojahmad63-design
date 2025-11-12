@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Shivam Kashyap
+# Hi there 👋, I'm Shahroj Ahmad
 
 ## About Me
 - 🔭 I’m currently pursuing **B.Tech in CSE (AIML)** at **Dr. A.P.J. Abdul Kalam Technical University**  
@@ -14,8 +14,6 @@
 
 
 
-## Connect with Me
-[![Instagram](https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/___silent_s)
 
 ## Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -25,4 +23,4 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## GitHub Stats
-![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamkashyap&show_icons=true&theme=radical)
+![Shahroj's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamkashyap&show_icons=true&theme=radical)
